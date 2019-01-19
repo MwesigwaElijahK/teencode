@@ -1,0 +1,30 @@
+body{
+    background-color: greenyellow;
+}
+    
+#formwrapper{
+    margin-left: 450px;
+    margin-top: 50px;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    display: block
+}
+#description{
+    font-size: 25px;
+    font-family: cursive;
+}
+form{
+    background-color: whitesmoke;
+    margin-right: auto;
+    margin-left: 1px;
+    margin-bottom: 0;
+    margin-top: 0;
+    width: 60%;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-right: 10px; 
+    text-align: justify;
+}
