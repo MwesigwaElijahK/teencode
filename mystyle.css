@@ -1,5 +1,5 @@
 #navbar{
-    position: relative;
+    position: fixed;
     margin: 0;
     width: 300px;
     border: none;
@@ -50,7 +50,7 @@ body{
 }
 #maindoc{
     /* position: relative; */
-    margin-left: 0px;
+    margin-left: 30%;
     margin-top: 10px;
     margin-bottom: 120px;
     padding-left: 10px;
